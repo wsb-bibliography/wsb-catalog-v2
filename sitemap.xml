@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/author/nelson-bighetti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bradleypallen.org/catalog/tags/</loc>
+  </url>
+  
+</urlset>
