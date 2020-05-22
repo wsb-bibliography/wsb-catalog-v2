@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Items by and about William S. Burroughs</title>
-    <link>https://www.bradleypallen.org/catalog/tags/</link>
-      <atom:link href="https://www.bradleypallen.org/catalog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsb-bibliography/wsb-catalog-v2/tags/</link>
+      <atom:link href="https://wsb-bibliography/wsb-catalog-v2/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://www.bradleypallen.org/catalog/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsb-bibliography/wsb-catalog-v2/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://www.bradleypallen.org/catalog/tags/</link>
+      <link>https://wsb-bibliography/wsb-catalog-v2/tags/</link>
     </image>
     
   </channel>
